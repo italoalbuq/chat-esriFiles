@@ -1,0 +1,1 @@
+para acessar os dados do Sentinel-2 do Living Atlas é preciso que você possua uma conta organizacional do ArcGIS Online. Após realizar a conversão da conta pública para organizacional foi possível de realizar a adição do satélite ao mapa no ArcGIS Pro.

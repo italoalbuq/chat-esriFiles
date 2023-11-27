@@ -1,0 +1,9 @@
+Para conseguir utilizar os dados do seu PostgreSQL no ArcGIS Online, é preciso que você tenha uma estrutura do ArcGIS Enterprise montada.
+
+No ArcGIS Enterprise é possível criar a conexão com o PostgreSQL, publicar seus dados como serviço, e a partir disso realizar a adição do item no ArcGIS Online com referência ao do ArcGIS Enterprise.
+
+Os dados do ArcGIS Online são acessados via API REST: https://developers.arcgis.com/rest/, podendo serem consumidos via Python, JavaScript, ou navegador:
+https://developers.arcgis.com/python/
+https://developers.arcgis.com/arcgis-rest-js/
+
+Através da API Rest você consegue realizar as manipulações da feature, desde que as capabilities de edição e consulta estejam habilitadas. Neste link - https://developers.arcgis.com/rest/services-reference/enterprise/feature-service.htm - você tem acesso a documentação das possibilidades que dá para utilizar

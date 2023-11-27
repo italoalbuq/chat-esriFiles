@@ -1,0 +1,6 @@
+Para utilizar esses serviços no seu Portal como basemap, siga os seguintes passos:
+1) Abra o seu ArcGIS Portal > Conteúdo > Novo Item
+2) Clique para adicionar uma URL e passe a URL Rest do item: https://wayback.maptiles.arcgis.com/arcgis/rest/services/World_Imagery/WMTS/1.0.0/default028mm/MapServer/tile/10/%7Blevel%7D/%7Brow%7D/%7Bcol%7D
+3) Selecione a data desejada e crie o item.
+4) Adicione o serviço ao mapa, clique nos três pontinhos (...) e depois em Mover para Basemap.
+

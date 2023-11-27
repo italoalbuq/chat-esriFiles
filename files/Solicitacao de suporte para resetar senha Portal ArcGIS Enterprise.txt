@@ -1,0 +1,5 @@
+A redefinição de senha no Portal pode ser realizada pelo administrador(a) da plataforma conforme é informado na documentação oficial da Esri que consta no link a seguir.
+
+https://enterprise.arcgis.com/pt-br/portal/10.9/administer/windows/manage-members.htm
+
+Assim, é necessário entrar em contato com o(a) administrador(a) do Portal e solicitar que ele(a) realize o procedimento conforme especificado no link acima.

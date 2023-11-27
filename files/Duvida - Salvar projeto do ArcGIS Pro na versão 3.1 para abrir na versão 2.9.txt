@@ -1,0 +1,5 @@
+Projetos e modelos de projeto ( arquivos .aprx , .ppkx e .aptx ) salvos com qualquer versão do ArcGIS Pro 2.x podem ser abertos e usados ​​pelo ArcGIS Pro 2.x 3.x. Entretanto, projetos e modelos de projeto salvos utilizando ArcGIS Pro 3.x não podem ser abertos pelo ArcGIS Pro 2.x.
+
+Você não pode salvar uma cópia de um projeto do ArcGIS Pro 3.x que possa ser aberto com qualquer versão 2.x do ArcGIS Pro . Se um projeto for salvo com uma versão mais recente do ArcGIS Pro 2.x, como 2.9 , ele poderá ser aberto com versões anteriores do ArcGIS Pro 2.x, como 2.0, mas o projeto será rebaixado de maneira apropriada para o versão mais antiga
+
+Essa é a documentação de apoio referente a Migração do ArcGIS Pro 2.9 para a 3.0 - CLIQUE AQUI: https://pro.arcgis.com/en/pro-app/latest/get-started/migrate-2x-to-3.htm

@@ -1,0 +1,12 @@
+Os widgets de Pesquisar, Filtrar e Consultar só é possível de realizar configurações a partir da Feature Layer que é onde os dados brutos se encontram.
+
+Para visualizar uma aplicação desenvolvida no ArcGIS Dashboard, é preciso utilizar o Widget Embed: https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/embed-widget.htm
+
+Comentamos também sobre a possibilidade de utilizar outros modelos do EB que é possível gerar gráficos.
+
+Segue o link do ArcGIS Ideas do Experience Builder para sugestões para Esri: https://community.esri.com/t5/arcgis-experience-builder-ideas/idb-p/arcgis-experience-builder-ideas
+
+
+https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/search-widget.htm
+https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/filter-widget.htm
+https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/query-widget.htm

@@ -1,0 +1,10 @@
+https://sucessodocliente.img.com.br/arcgis-for-desktop/desautorizacao-arcgis-desktop-10-6-single-use-online/
+
+
+Autorização da licença em uma nova máquina.
+
+Obs.: Para realizar o procedimento de nova autorização é necessário ter acesso ao código da licença que estava autorizado na máquina antiga.
+
+1. Download do software no My Esri: https://docs.img.com.br/wp-content/uploads/2019/01/03_Download-do-seu-software-Esri.pdf%20
+2. Instalação (Vídeo YouTube): https://www.youtube.com/watch?v=uubQ-xXUYo0&feature=youtu.be
+3. Autorização: https://docs.img.com.br/arcgis-for-desktop/como-autorizar-arcgis-desktop-10-6-single-use-online/

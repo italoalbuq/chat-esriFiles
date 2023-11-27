@@ -1,0 +1,3 @@
+após alterarmos o datastore para readwrite via (changedatastoremode  readwrite --prompt yes --store relational) foi possível de realizar novas publicações.
+
+diretório de instalação do datastore: <diretoriodeInstalacao>\datastore\tools

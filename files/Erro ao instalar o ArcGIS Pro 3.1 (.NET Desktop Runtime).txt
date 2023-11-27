@@ -1,0 +1,3 @@
+É preciso instalar o .NET Desktop Runtime 6.0.5 para que seja possível de instalar o ArCGIS Pro na versão 3. Link de download: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.5-windows-x64-installer
+ 
+Após isso, tente novamente instalar o ArcGIS Pro e realizar login.

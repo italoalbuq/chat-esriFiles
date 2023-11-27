@@ -1,0 +1,15 @@
+o ArcGIS tem algumas limitações quanto ao tipo de extensão Shapefile, conforme essa documentação - https://pro.arcgis.com/en/pro-app/latest/help/data/shapefiles/working-with-shapefiles-in-arcgis-pro.htm
+
+Limite de tamanho do shapefile: 2 GB.
+Comprimento máximo do nome do campo: 10 caracteres.
+Número máximo de campos: 1024.
+Valores NULL são suportados apenas no tipo de dados de campo Data e não são suportados para tipos de dados de campo numérico ou de texto em um shapefile.
+Um shapefile não pode armazenar informações ou relacionamentos topológicos.
+Shapefiles e arquivos dBASE não podem armazenar caracteres que não sejam do inglês por padrão. Se você precisar armazenar ou usar esses arquivos codificados em diferentes páginas de código, siga as instruções descritas em Instrução: Ler e gravar arquivos shapefile e dBASE codificados em várias páginas de código .
+Na visualização de campos, você pode adicionar, excluir ou copiar campos, mas depois que o campo for salvo, você não poderá alterar as propriedades do campo.
+Atualmente, a adição de um atributo ou índice espacial não é suportada para shapefiles na guia índices de propriedades da camada. Consulte o conjunto de ferramentas Índices para obter mais informações sobre como adicionar ou remover um índice no ArcGIS Pro .
+
+https://pro.arcgis.com/en/pro-app/3.1/tool-reference/data-management/an-overview-of-the-indexes-toolset.htm
+https://support.esri.com/technical-article/000013192
+
+uma forma de você exportar todos os dados dessa Feature Class que está geocodificando é exportá-la para um File Geodatabase (FGDB)
