@@ -32,7 +32,7 @@ def main():
     setup_openai()
     st.title("Bem-vindo(a) ao Chat GIS!")
 
-    folder_path = "caminho/para/sua/pasta"  # Substitua pelo caminho da sua pasta
+    folder_path = "/files"  # Substitua pelo caminho da sua pasta
     additional_training_data = load_training_data_from_folder(folder_path)
 
     st.write("Digite sua pergunta abaixo:")
